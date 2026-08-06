@@ -7,7 +7,7 @@ This repository contains a hello world example which demonstrates the Terraform 
 
 ## Snyk UI Projects
 
-When this repository is imported into Snyk we should scan the `.tf` files and identify any issues. This should appear in Snyk like so:
+When this repository is imported into Snyk we should scan the `.tf` files and identify any issues. This should appear in Snyk like so: 
 
 ![Snyk projects](assets/projects.png)
 
